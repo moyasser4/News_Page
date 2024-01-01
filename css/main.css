@@ -250,10 +250,6 @@ footer .copyright {
   white-space: nowrap;
 }
 
-footer .copyright i {
-  font-size: 14px;
-}
-
 @media (max-width: 767px) {
   .container {
     width: 380px;
@@ -301,6 +297,10 @@ footer .copyright i {
 
   footer .contact {
     display: none;
+  }
+
+  footer .copyright {
+    font-size: 0.8rem;
   }
 }
 
