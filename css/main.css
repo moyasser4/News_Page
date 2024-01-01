@@ -288,12 +288,11 @@ footer .copyright i {
   }
 
   section .content {
-    width: 70%;
+    width: 100%;
   }
 
   section aside {
-    width: 30%;
-    font-size: 0.5rem;
+    display: none;
   }
 
   footer .menu ul {
